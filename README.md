@@ -1,2 +1,1 @@
-# super-rat
-super↑rat
+# super↑rat
